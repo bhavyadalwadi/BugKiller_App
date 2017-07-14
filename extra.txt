@@ -1,0 +1,5 @@
+-Super bugs should appear randomly and are larger than regular bugs. Super bugs
+ take 4 clicks to kill. Super bugs are worth 10 points. There should be a special
+ sound effect when killing a super bug. Only one super bug should appear on the
+ screen at any one time. Super bugs should not appear more often than every 20
+ seconds. Super bugs can move in a straight line or zig-zag (chosen randomly).
