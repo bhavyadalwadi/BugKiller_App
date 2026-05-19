@@ -1,0 +1,74 @@
+{
+  "repo": "BugKiller_App",
+  "title": "BugKiller_App",
+  "purpose": "Android arcade-style bug-killing game built around classes like MainActivity, MainView, Bug, LadyBug, and SuperBug.",
+  "domains": [
+    "game",
+    "mobile app"
+  ],
+  "tech_stack": [
+    "Java",
+    "Android",
+    "Gradle"
+  ],
+  "features": [
+    "Arcade bug-killing gameplay with bug entities such as Bug, LadyBug, and SuperBug",
+    "Main activity and view flow for gameplay",
+    "Settings/preferences screen through PrefsFragmentSettings",
+    "Title/menu activity structure",
+    "Score-driven game behavior"
+  ],
+  "pending_state": "documented",
+  "pending_items": [
+    "Add randomly appearing super bugs that are larger than regular bugs",
+    "Make super bugs require 4 clicks and award 10 points",
+    "Play a special sound effect when killing a super bug",
+    "Limit super bug frequency to at most once every 20 seconds",
+    "Support random straight-line or zig-zag super bug movement"
+  ],
+  "status_confidence": "high",
+  "main_modules": [
+    "RoachKiller"
+  ],
+  "key_flows": [
+    "graphify-out/GRAPH_REPORT.md"
+  ],
+  "known_outputs": [
+    "graphify-out/graph.json",
+    "graphify-out/graph.html",
+    "graphify-out/GRAPH_REPORT.md"
+  ],
+  "current_work_guess": "Documented pending work centers on adding and tuning the SuperBug gameplay behavior.",
+  "likely_entrypoints": [
+    "RoachKiller/app",
+    "RoachKiller/build.gradle",
+    "extra.txt"
+  ],
+  "notable_docs": [
+    "extra.txt",
+    "RoachKiller/build.gradle",
+    "output.png"
+  ],
+  "graph_stats": "82 nodes \u00b7 84 edges \u00b7 15 communities (4 shown, 11 thin omitted)",
+  "god_nodes": [
+    "MainThread",
+    "MainView",
+    "PrefsFragmentSettings",
+    "LadyBug",
+    "SuperBug"
+  ],
+  "llm_start_here": [
+    "extra.txt",
+    "graphify-out/GRAPH_REPORT.md",
+    "RoachKiller/build.gradle"
+  ],
+  "suggested_next_steps": [
+    "Implement the documented SuperBug behavior from extra.txt",
+    "Add a README describing gameplay, controls, and build/run steps"
+  ],
+  "evidence_files": [
+    "extra.txt",
+    "RoachKiller/build.gradle",
+    "graphify-out/GRAPH_REPORT.md"
+  ]
+}

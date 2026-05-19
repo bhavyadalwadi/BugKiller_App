@@ -1,0 +1,1605 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "build.gradle",
+      "file_type": "code",
+      "source_file": "build.gradle",
+      "source_location": "L1",
+      "id": "build_gradle",
+      "community": 12,
+      "norm_label": "build.gradle"
+    },
+    {
+      "label": "settings.gradle",
+      "file_type": "code",
+      "source_file": "settings.gradle",
+      "source_location": "L1",
+      "id": "settings_gradle",
+      "community": 13,
+      "norm_label": "settings.gradle"
+    },
+    {
+      "label": "build.gradle",
+      "file_type": "code",
+      "source_file": "app/build.gradle",
+      "source_location": "L1",
+      "id": "app_build_gradle",
+      "community": 14,
+      "norm_label": "build.gradle"
+    },
+    {
+      "label": "ApplicationTest.java",
+      "file_type": "code",
+      "source_file": "app/src/androidTest/java/game/nidhi/roachkiller/ApplicationTest.java",
+      "source_location": "L1",
+      "id": "app_src_androidtest_java_game_nidhi_roachkiller_applicationtest_java",
+      "community": 10,
+      "norm_label": "applicationtest.java"
+    },
+    {
+      "label": "ApplicationTest",
+      "file_type": "code",
+      "source_file": "app/src/androidTest/java/game/nidhi/roachkiller/ApplicationTest.java",
+      "source_location": "L9",
+      "id": "roachkiller_applicationtest_applicationtest",
+      "community": 10,
+      "norm_label": "applicationtest"
+    },
+    {
+      "label": ".ApplicationTest()",
+      "file_type": "code",
+      "source_file": "app/src/androidTest/java/game/nidhi/roachkiller/ApplicationTest.java",
+      "source_location": "L10",
+      "id": "roachkiller_applicationtest_applicationtest_applicationtest",
+      "community": 10,
+      "norm_label": ".applicationtest()"
+    },
+    {
+      "label": "ExampleUnitTest.java",
+      "file_type": "code",
+      "source_file": "app/src/test/java/game/nidhi/roachkiller/ExampleUnitTest.java",
+      "source_location": "L1",
+      "id": "app_src_test_java_game_nidhi_roachkiller_exampleunittest_java",
+      "community": 9,
+      "norm_label": "exampleunittest.java"
+    },
+    {
+      "label": "ExampleUnitTest",
+      "file_type": "code",
+      "source_file": "app/src/test/java/game/nidhi/roachkiller/ExampleUnitTest.java",
+      "source_location": "L10",
+      "id": "roachkiller_exampleunittest_exampleunittest",
+      "community": 9,
+      "norm_label": "exampleunittest"
+    },
+    {
+      "label": ".addition_isCorrect()",
+      "file_type": "code",
+      "source_file": "app/src/test/java/game/nidhi/roachkiller/ExampleUnitTest.java",
+      "source_location": "L11",
+      "id": "roachkiller_exampleunittest_exampleunittest_addition_iscorrect",
+      "community": 9,
+      "norm_label": ".addition_iscorrect()"
+    },
+    {
+      "label": "LadyBug.java",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/LadyBug.java",
+      "source_location": "L1",
+      "id": "app_src_main_java_game_nidhi_roachkiller_ladybug_java",
+      "community": 5,
+      "norm_label": "ladybug.java"
+    },
+    {
+      "label": "LadyBug",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/LadyBug.java",
+      "source_location": "L8",
+      "id": "roachkiller_ladybug_ladybug",
+      "community": 5,
+      "norm_label": "ladybug"
+    },
+    {
+      "label": ".LadyBug()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/LadyBug.java",
+      "source_location": "L28",
+      "id": "roachkiller_ladybug_ladybug_ladybug",
+      "community": 5,
+      "norm_label": ".ladybug()"
+    },
+    {
+      "label": ".birth()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/LadyBug.java",
+      "source_location": "L33",
+      "id": "roachkiller_ladybug_ladybug_birth",
+      "community": 5,
+      "norm_label": ".birth()"
+    },
+    {
+      "label": ".move()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/LadyBug.java",
+      "source_location": "L71",
+      "id": "roachkiller_ladybug_ladybug_move",
+      "community": 5,
+      "norm_label": ".move()"
+    },
+    {
+      "label": ".touched_ladybug()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/LadyBug.java",
+      "source_location": "L99",
+      "id": "roachkiller_ladybug_ladybug_touched_ladybug",
+      "community": 5,
+      "norm_label": ".touched_ladybug()"
+    },
+    {
+      "label": ".drawDead()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/LadyBug.java",
+      "source_location": "L118",
+      "id": "roachkiller_ladybug_ladybug_drawdead",
+      "community": 5,
+      "norm_label": ".drawdead()"
+    },
+    {
+      "label": "Assets.java",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/Assets.java",
+      "source_location": "L1",
+      "id": "app_src_main_java_game_nidhi_roachkiller_assets_java",
+      "community": 11,
+      "norm_label": "assets.java"
+    },
+    {
+      "label": "Assets",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/Assets.java",
+      "source_location": "L7",
+      "id": "roachkiller_assets_assets",
+      "community": 11,
+      "norm_label": "assets"
+    },
+    {
+      "label": "MainThread.java",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L1",
+      "id": "app_src_main_java_game_nidhi_roachkiller_mainthread_java",
+      "community": 2,
+      "norm_label": "mainthread.java"
+    },
+    {
+      "label": "MainThread",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L23",
+      "id": "roachkiller_mainthread_mainthread",
+      "community": 2,
+      "norm_label": "mainthread"
+    },
+    {
+      "label": "Thread",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "thread",
+      "community": 2,
+      "norm_label": "thread"
+    },
+    {
+      "label": ".MainThread()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L36",
+      "id": "roachkiller_mainthread_mainthread_mainthread",
+      "community": 2,
+      "norm_label": ".mainthread()"
+    },
+    {
+      "label": ".setRunning()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L43",
+      "id": "roachkiller_mainthread_mainthread_setrunning",
+      "community": 0,
+      "norm_label": ".setrunning()"
+    },
+    {
+      "label": ".setXY()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L48",
+      "id": "roachkiller_mainthread_mainthread_setxy",
+      "community": 0,
+      "norm_label": ".setxy()"
+    },
+    {
+      "label": ".run()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L56",
+      "id": "roachkiller_mainthread_mainthread_run",
+      "community": 2,
+      "norm_label": ".run()"
+    },
+    {
+      "label": ".loadData()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L71",
+      "id": "roachkiller_mainthread_mainthread_loaddata",
+      "community": 2,
+      "norm_label": ".loaddata()"
+    },
+    {
+      "label": ".loadBackground()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L155",
+      "id": "roachkiller_mainthread_mainthread_loadbackground",
+      "community": 2,
+      "norm_label": ".loadbackground()"
+    },
+    {
+      "label": ".render()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L163",
+      "id": "roachkiller_mainthread_mainthread_render",
+      "community": 2,
+      "norm_label": ".render()"
+    },
+    {
+      "label": "SuperBug.java",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/SuperBug.java",
+      "source_location": "L1",
+      "id": "app_src_main_java_game_nidhi_roachkiller_superbug_java",
+      "community": 6,
+      "norm_label": "superbug.java"
+    },
+    {
+      "label": "SuperBug",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/SuperBug.java",
+      "source_location": "L9",
+      "id": "roachkiller_superbug_superbug",
+      "community": 6,
+      "norm_label": "superbug"
+    },
+    {
+      "label": ".SuperBug()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/SuperBug.java",
+      "source_location": "L31",
+      "id": "roachkiller_superbug_superbug_superbug",
+      "community": 6,
+      "norm_label": ".superbug()"
+    },
+    {
+      "label": ".birth()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/SuperBug.java",
+      "source_location": "L36",
+      "id": "roachkiller_superbug_superbug_birth",
+      "community": 6,
+      "norm_label": ".birth()"
+    },
+    {
+      "label": ".move()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/SuperBug.java",
+      "source_location": "L60",
+      "id": "roachkiller_superbug_superbug_move",
+      "community": 6,
+      "norm_label": ".move()"
+    },
+    {
+      "label": ".touched_superbug()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/SuperBug.java",
+      "source_location": "L91",
+      "id": "roachkiller_superbug_superbug_touched_superbug",
+      "community": 6,
+      "norm_label": ".touched_superbug()"
+    },
+    {
+      "label": ".drawDead()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/SuperBug.java",
+      "source_location": "L112",
+      "id": "roachkiller_superbug_superbug_drawdead",
+      "community": 6,
+      "norm_label": ".drawdead()"
+    },
+    {
+      "label": "TitleActivity.java",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/TitleActivity.java",
+      "source_location": "L1",
+      "id": "app_src_main_java_game_nidhi_roachkiller_titleactivity_java",
+      "community": 1,
+      "norm_label": "titleactivity.java"
+    },
+    {
+      "label": "TitleActivity",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/TitleActivity.java",
+      "source_location": "L8",
+      "id": "roachkiller_titleactivity_titleactivity",
+      "community": 1,
+      "norm_label": "titleactivity"
+    },
+    {
+      "label": "AppCompatActivity",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "appcompatactivity",
+      "community": 1,
+      "norm_label": "appcompatactivity"
+    },
+    {
+      "label": ".onCreate()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/TitleActivity.java",
+      "source_location": "L12",
+      "id": "roachkiller_titleactivity_titleactivity_oncreate",
+      "community": 1,
+      "norm_label": ".oncreate()"
+    },
+    {
+      "label": ".toMainActivity()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/TitleActivity.java",
+      "source_location": "L27",
+      "id": "roachkiller_titleactivity_titleactivity_tomainactivity",
+      "community": 1,
+      "norm_label": ".tomainactivity()"
+    },
+    {
+      "label": ".onBackPressed()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/TitleActivity.java",
+      "source_location": "L33",
+      "id": "roachkiller_titleactivity_titleactivity_onbackpressed",
+      "community": 1,
+      "norm_label": ".onbackpressed()"
+    },
+    {
+      "label": "MainActivity.java",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainActivity.java",
+      "source_location": "L1",
+      "id": "app_src_main_java_game_nidhi_roachkiller_mainactivity_java",
+      "community": 1,
+      "norm_label": "mainactivity.java"
+    },
+    {
+      "label": "MainActivity",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainActivity.java",
+      "source_location": "L11",
+      "id": "roachkiller_mainactivity_mainactivity",
+      "community": 1,
+      "norm_label": "mainactivity"
+    },
+    {
+      "label": ".onCreate()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainActivity.java",
+      "source_location": "L14",
+      "id": "roachkiller_mainactivity_mainactivity_oncreate",
+      "community": 1,
+      "norm_label": ".oncreate()"
+    },
+    {
+      "label": ".onPause()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainActivity.java",
+      "source_location": "L28",
+      "id": "roachkiller_mainactivity_mainactivity_onpause",
+      "community": 0,
+      "norm_label": ".onpause()"
+    },
+    {
+      "label": ".onResume()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainActivity.java",
+      "source_location": "L40",
+      "id": "roachkiller_mainactivity_mainactivity_onresume",
+      "community": 0,
+      "norm_label": ".onresume()"
+    },
+    {
+      "label": "PrefsActivity.java",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsActivity.java",
+      "source_location": "L1",
+      "id": "app_src_main_java_game_nidhi_roachkiller_prefsactivity_java",
+      "community": 7,
+      "norm_label": "prefsactivity.java"
+    },
+    {
+      "label": "PrefsActivity",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsActivity.java",
+      "source_location": "L9",
+      "id": "roachkiller_prefsactivity_prefsactivity",
+      "community": 7,
+      "norm_label": "prefsactivity"
+    },
+    {
+      "label": "PreferenceActivity",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "preferenceactivity",
+      "community": 7,
+      "norm_label": "preferenceactivity"
+    },
+    {
+      "label": ".onCreate()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsActivity.java",
+      "source_location": "L12",
+      "id": "roachkiller_prefsactivity_prefsactivity_oncreate",
+      "community": 7,
+      "norm_label": ".oncreate()"
+    },
+    {
+      "label": ".isValidFragment()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsActivity.java",
+      "source_location": "L18",
+      "id": "roachkiller_prefsactivity_prefsactivity_isvalidfragment",
+      "community": 7,
+      "norm_label": ".isvalidfragment()"
+    },
+    {
+      "label": ".onBuildHeaders()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsActivity.java",
+      "source_location": "L27",
+      "id": "roachkiller_prefsactivity_prefsactivity_onbuildheaders",
+      "community": 7,
+      "norm_label": ".onbuildheaders()"
+    },
+    {
+      "label": "PrefsFragmentSettings.java",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsFragmentSettings.java",
+      "source_location": "L1",
+      "id": "app_src_main_java_game_nidhi_roachkiller_prefsfragmentsettings_java",
+      "community": 3,
+      "norm_label": "prefsfragmentsettings.java"
+    },
+    {
+      "label": "PrefsFragmentSettings",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsFragmentSettings.java",
+      "source_location": "L12",
+      "id": "roachkiller_prefsfragmentsettings_prefsfragmentsettings",
+      "community": 3,
+      "norm_label": "prefsfragmentsettings"
+    },
+    {
+      "label": "PreferenceFragment",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "preferencefragment",
+      "community": 3,
+      "norm_label": "preferencefragment"
+    },
+    {
+      "label": ".PrefsFragmentSettings()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsFragmentSettings.java",
+      "source_location": "L15",
+      "id": "roachkiller_prefsfragmentsettings_prefsfragmentsettings_prefsfragmentsettings",
+      "community": 3,
+      "norm_label": ".prefsfragmentsettings()"
+    },
+    {
+      "label": ".onCreate()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsFragmentSettings.java",
+      "source_location": "L18",
+      "id": "roachkiller_prefsfragmentsettings_prefsfragmentsettings_oncreate",
+      "community": 3,
+      "norm_label": ".oncreate()"
+    },
+    {
+      "label": ".onPause()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsFragmentSettings.java",
+      "source_location": "L27",
+      "id": "roachkiller_prefsfragmentsettings_prefsfragmentsettings_onpause",
+      "community": 3,
+      "norm_label": ".onpause()"
+    },
+    {
+      "label": ".onResume()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsFragmentSettings.java",
+      "source_location": "L35",
+      "id": "roachkiller_prefsfragmentsettings_prefsfragmentsettings_onresume",
+      "community": 3,
+      "norm_label": ".onresume()"
+    },
+    {
+      "label": ".onSharedPreferenceChanged()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsFragmentSettings.java",
+      "source_location": "L73",
+      "id": "roachkiller_prefsfragmentsettings_prefsfragmentsettings_onsharedpreferencechanged",
+      "community": 3,
+      "norm_label": ".onsharedpreferencechanged()"
+    },
+    {
+      "label": "Bug.java",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/Bug.java",
+      "source_location": "L1",
+      "id": "app_src_main_java_game_nidhi_roachkiller_bug_java",
+      "community": 4,
+      "norm_label": "bug.java"
+    },
+    {
+      "label": "Bug",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/Bug.java",
+      "source_location": "L8",
+      "id": "roachkiller_bug_bug",
+      "community": 4,
+      "norm_label": "bug"
+    },
+    {
+      "label": ".Bug()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/Bug.java",
+      "source_location": "L28",
+      "id": "roachkiller_bug_bug_bug",
+      "community": 4,
+      "norm_label": ".bug()"
+    },
+    {
+      "label": ".birth()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/Bug.java",
+      "source_location": "L33",
+      "id": "roachkiller_bug_bug_birth",
+      "community": 4,
+      "norm_label": ".birth()"
+    },
+    {
+      "label": ".move()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/Bug.java",
+      "source_location": "L72",
+      "id": "roachkiller_bug_bug_move",
+      "community": 4,
+      "norm_label": ".move()"
+    },
+    {
+      "label": ".touched()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/Bug.java",
+      "source_location": "L105",
+      "id": "roachkiller_bug_bug_touched",
+      "community": 4,
+      "norm_label": ".touched()"
+    },
+    {
+      "label": ".drawDead()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/Bug.java",
+      "source_location": "L124",
+      "id": "roachkiller_bug_bug_drawdead",
+      "community": 4,
+      "norm_label": ".drawdead()"
+    },
+    {
+      "label": "MenuActivity.java",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MenuActivity.java",
+      "source_location": "L1",
+      "id": "app_src_main_java_game_nidhi_roachkiller_menuactivity_java",
+      "community": 8,
+      "norm_label": "menuactivity.java"
+    },
+    {
+      "label": "MenuActivity",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MenuActivity.java",
+      "source_location": "L13",
+      "id": "roachkiller_menuactivity_menuactivity",
+      "community": 8,
+      "norm_label": "menuactivity"
+    },
+    {
+      "label": "Activity",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "activity",
+      "community": 8,
+      "norm_label": "activity"
+    },
+    {
+      "label": ".onCreate()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MenuActivity.java",
+      "source_location": "L16",
+      "id": "roachkiller_menuactivity_menuactivity_oncreate",
+      "community": 8,
+      "norm_label": ".oncreate()"
+    },
+    {
+      "label": ".onClick()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MenuActivity.java",
+      "source_location": "L36",
+      "id": "roachkiller_menuactivity_menuactivity_onclick",
+      "community": 8,
+      "norm_label": ".onclick()"
+    },
+    {
+      "label": "MainView.java",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L1",
+      "id": "app_src_main_java_game_nidhi_roachkiller_mainview_java",
+      "community": 0,
+      "norm_label": "mainview.java"
+    },
+    {
+      "label": "MainView",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L13",
+      "id": "roachkiller_mainview_mainview",
+      "community": 0,
+      "norm_label": "mainview"
+    },
+    {
+      "label": "SurfaceView",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "surfaceview",
+      "community": 0,
+      "norm_label": "surfaceview"
+    },
+    {
+      "label": ".MainView()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L19",
+      "id": "roachkiller_mainview_mainview_mainview",
+      "community": 0,
+      "norm_label": ".mainview()"
+    },
+    {
+      "label": ".pause()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L61",
+      "id": "roachkiller_mainview_mainview_pause",
+      "community": 0,
+      "norm_label": ".pause()"
+    },
+    {
+      "label": ".resume()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L77",
+      "id": "roachkiller_mainview_mainview_resume",
+      "community": 0,
+      "norm_label": ".resume()"
+    },
+    {
+      "label": ".onTouchEvent()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L81",
+      "id": "roachkiller_mainview_mainview_ontouchevent",
+      "community": 0,
+      "norm_label": ".ontouchevent()"
+    },
+    {
+      "label": ".surfaceCreated()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L99",
+      "id": "roachkiller_mainview_mainview_surfacecreated",
+      "community": 0,
+      "norm_label": ".surfacecreated()"
+    },
+    {
+      "label": ".surfaceChanged()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L111",
+      "id": "roachkiller_mainview_mainview_surfacechanged",
+      "community": 0,
+      "norm_label": ".surfacechanged()"
+    },
+    {
+      "label": ".surfaceDestroyed()",
+      "file_type": "code",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L112",
+      "id": "roachkiller_mainview_mainview_surfacedestroyed",
+      "community": 0,
+      "norm_label": ".surfacedestroyed()"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/androidTest/java/game/nidhi/roachkiller/ApplicationTest.java",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "app_src_androidtest_java_game_nidhi_roachkiller_applicationtest_java",
+      "target": "roachkiller_applicationtest_applicationtest",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/androidTest/java/game/nidhi/roachkiller/ApplicationTest.java",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "roachkiller_applicationtest_applicationtest",
+      "target": "roachkiller_applicationtest_applicationtest_applicationtest",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/test/java/game/nidhi/roachkiller/ExampleUnitTest.java",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "app_src_test_java_game_nidhi_roachkiller_exampleunittest_java",
+      "target": "roachkiller_exampleunittest_exampleunittest",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/test/java/game/nidhi/roachkiller/ExampleUnitTest.java",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "roachkiller_exampleunittest_exampleunittest",
+      "target": "roachkiller_exampleunittest_exampleunittest_addition_iscorrect",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/LadyBug.java",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "app_src_main_java_game_nidhi_roachkiller_ladybug_java",
+      "target": "roachkiller_ladybug_ladybug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/LadyBug.java",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "roachkiller_ladybug_ladybug",
+      "target": "roachkiller_ladybug_ladybug_ladybug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/LadyBug.java",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "roachkiller_ladybug_ladybug",
+      "target": "roachkiller_ladybug_ladybug_birth",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/LadyBug.java",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "roachkiller_ladybug_ladybug",
+      "target": "roachkiller_ladybug_ladybug_move",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/LadyBug.java",
+      "source_location": "L99",
+      "weight": 1.0,
+      "source": "roachkiller_ladybug_ladybug",
+      "target": "roachkiller_ladybug_ladybug_touched_ladybug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/LadyBug.java",
+      "source_location": "L118",
+      "weight": 1.0,
+      "source": "roachkiller_ladybug_ladybug",
+      "target": "roachkiller_ladybug_ladybug_drawdead",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L257",
+      "weight": 1.0,
+      "source": "roachkiller_mainthread_mainthread_render",
+      "target": "roachkiller_ladybug_ladybug_touched_ladybug"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/Assets.java",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "app_src_main_java_game_nidhi_roachkiller_assets_java",
+      "target": "roachkiller_assets_assets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "app_src_main_java_game_nidhi_roachkiller_mainthread_java",
+      "target": "roachkiller_mainthread_mainthread",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "roachkiller_mainthread_mainthread",
+      "target": "thread",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "roachkiller_mainthread_mainthread",
+      "target": "roachkiller_mainthread_mainthread_mainthread",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "roachkiller_mainthread_mainthread",
+      "target": "roachkiller_mainthread_mainthread_setrunning",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "roachkiller_mainthread_mainthread",
+      "target": "roachkiller_mainthread_mainthread_setxy",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "roachkiller_mainthread_mainthread",
+      "target": "roachkiller_mainthread_mainthread_run",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "roachkiller_mainthread_mainthread",
+      "target": "roachkiller_mainthread_mainthread_loaddata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L155",
+      "weight": 1.0,
+      "source": "roachkiller_mainthread_mainthread",
+      "target": "roachkiller_mainthread_mainthread_loadbackground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L163",
+      "weight": 1.0,
+      "source": "roachkiller_mainthread_mainthread",
+      "target": "roachkiller_mainthread_mainthread_render",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "roachkiller_mainview_mainview_pause",
+      "target": "roachkiller_mainthread_mainthread_setrunning"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L104",
+      "weight": 1.0,
+      "source": "roachkiller_mainview_mainview_surfacecreated",
+      "target": "roachkiller_mainthread_mainthread_setrunning"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L94",
+      "weight": 1.0,
+      "source": "roachkiller_mainview_mainview_ontouchevent",
+      "target": "roachkiller_mainthread_mainthread_setxy"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "roachkiller_mainthread_mainthread_run",
+      "target": "roachkiller_mainthread_mainthread_render",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L171",
+      "weight": 1.0,
+      "source": "roachkiller_mainthread_mainthread_render",
+      "target": "roachkiller_mainthread_mainthread_loaddata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L169",
+      "weight": 1.0,
+      "source": "roachkiller_mainthread_mainthread_render",
+      "target": "roachkiller_mainthread_mainthread_loadbackground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L224",
+      "weight": 1.0,
+      "source": "roachkiller_mainthread_mainthread_render",
+      "target": "roachkiller_bug_bug_touched"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainThread.java",
+      "source_location": "L262",
+      "weight": 1.0,
+      "source": "roachkiller_mainthread_mainthread_render",
+      "target": "roachkiller_superbug_superbug_touched_superbug"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/SuperBug.java",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "app_src_main_java_game_nidhi_roachkiller_superbug_java",
+      "target": "roachkiller_superbug_superbug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/SuperBug.java",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "roachkiller_superbug_superbug",
+      "target": "roachkiller_superbug_superbug_superbug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/SuperBug.java",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "roachkiller_superbug_superbug",
+      "target": "roachkiller_superbug_superbug_birth",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/SuperBug.java",
+      "source_location": "L60",
+      "weight": 1.0,
+      "source": "roachkiller_superbug_superbug",
+      "target": "roachkiller_superbug_superbug_move",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/SuperBug.java",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "roachkiller_superbug_superbug",
+      "target": "roachkiller_superbug_superbug_touched_superbug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/SuperBug.java",
+      "source_location": "L112",
+      "weight": 1.0,
+      "source": "roachkiller_superbug_superbug",
+      "target": "roachkiller_superbug_superbug_drawdead",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/TitleActivity.java",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "app_src_main_java_game_nidhi_roachkiller_titleactivity_java",
+      "target": "appcompatactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/TitleActivity.java",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "app_src_main_java_game_nidhi_roachkiller_titleactivity_java",
+      "target": "roachkiller_titleactivity_titleactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/TitleActivity.java",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "roachkiller_titleactivity_titleactivity",
+      "target": "appcompatactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/TitleActivity.java",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "roachkiller_titleactivity_titleactivity",
+      "target": "roachkiller_titleactivity_titleactivity_oncreate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/TitleActivity.java",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "roachkiller_titleactivity_titleactivity",
+      "target": "roachkiller_titleactivity_titleactivity_tomainactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/TitleActivity.java",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "roachkiller_titleactivity_titleactivity",
+      "target": "roachkiller_titleactivity_titleactivity_onbackpressed",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainActivity.java",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "app_src_main_java_game_nidhi_roachkiller_mainactivity_java",
+      "target": "appcompatactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainActivity.java",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "roachkiller_mainactivity_mainactivity",
+      "target": "appcompatactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainActivity.java",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "app_src_main_java_game_nidhi_roachkiller_mainactivity_java",
+      "target": "roachkiller_mainactivity_mainactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainActivity.java",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "roachkiller_mainactivity_mainactivity",
+      "target": "roachkiller_mainactivity_mainactivity_oncreate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainActivity.java",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "roachkiller_mainactivity_mainactivity",
+      "target": "roachkiller_mainactivity_mainactivity_onpause",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainActivity.java",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "roachkiller_mainactivity_mainactivity",
+      "target": "roachkiller_mainactivity_mainactivity_onresume",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainActivity.java",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "roachkiller_mainactivity_mainactivity_onpause",
+      "target": "roachkiller_mainview_mainview_pause"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainActivity.java",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "roachkiller_mainactivity_mainactivity_onresume",
+      "target": "roachkiller_mainview_mainview_resume"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsActivity.java",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "app_src_main_java_game_nidhi_roachkiller_prefsactivity_java",
+      "target": "preferenceactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsActivity.java",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "app_src_main_java_game_nidhi_roachkiller_prefsactivity_java",
+      "target": "roachkiller_prefsactivity_prefsactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsActivity.java",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "roachkiller_prefsactivity_prefsactivity",
+      "target": "preferenceactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsActivity.java",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "roachkiller_prefsactivity_prefsactivity",
+      "target": "roachkiller_prefsactivity_prefsactivity_oncreate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsActivity.java",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "roachkiller_prefsactivity_prefsactivity",
+      "target": "roachkiller_prefsactivity_prefsactivity_isvalidfragment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsActivity.java",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "roachkiller_prefsactivity_prefsactivity",
+      "target": "roachkiller_prefsactivity_prefsactivity_onbuildheaders",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsFragmentSettings.java",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "app_src_main_java_game_nidhi_roachkiller_prefsfragmentsettings_java",
+      "target": "preferencefragment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsFragmentSettings.java",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "app_src_main_java_game_nidhi_roachkiller_prefsfragmentsettings_java",
+      "target": "roachkiller_prefsfragmentsettings_prefsfragmentsettings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsFragmentSettings.java",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "roachkiller_prefsfragmentsettings_prefsfragmentsettings",
+      "target": "preferencefragment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsFragmentSettings.java",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "roachkiller_prefsfragmentsettings_prefsfragmentsettings",
+      "target": "roachkiller_prefsfragmentsettings_prefsfragmentsettings_prefsfragmentsettings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsFragmentSettings.java",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "roachkiller_prefsfragmentsettings_prefsfragmentsettings",
+      "target": "roachkiller_prefsfragmentsettings_prefsfragmentsettings_oncreate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsFragmentSettings.java",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "roachkiller_prefsfragmentsettings_prefsfragmentsettings",
+      "target": "roachkiller_prefsfragmentsettings_prefsfragmentsettings_onpause",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsFragmentSettings.java",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "roachkiller_prefsfragmentsettings_prefsfragmentsettings",
+      "target": "roachkiller_prefsfragmentsettings_prefsfragmentsettings_onresume",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/PrefsFragmentSettings.java",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "roachkiller_prefsfragmentsettings_prefsfragmentsettings",
+      "target": "roachkiller_prefsfragmentsettings_prefsfragmentsettings_onsharedpreferencechanged",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/Bug.java",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "app_src_main_java_game_nidhi_roachkiller_bug_java",
+      "target": "roachkiller_bug_bug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/Bug.java",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "roachkiller_bug_bug",
+      "target": "roachkiller_bug_bug_bug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/Bug.java",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "roachkiller_bug_bug",
+      "target": "roachkiller_bug_bug_birth",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/Bug.java",
+      "source_location": "L72",
+      "weight": 1.0,
+      "source": "roachkiller_bug_bug",
+      "target": "roachkiller_bug_bug_move",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/Bug.java",
+      "source_location": "L105",
+      "weight": 1.0,
+      "source": "roachkiller_bug_bug",
+      "target": "roachkiller_bug_bug_touched",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/Bug.java",
+      "source_location": "L124",
+      "weight": 1.0,
+      "source": "roachkiller_bug_bug",
+      "target": "roachkiller_bug_bug_drawdead",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MenuActivity.java",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "app_src_main_java_game_nidhi_roachkiller_menuactivity_java",
+      "target": "activity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MenuActivity.java",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "app_src_main_java_game_nidhi_roachkiller_menuactivity_java",
+      "target": "roachkiller_menuactivity_menuactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MenuActivity.java",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "roachkiller_menuactivity_menuactivity",
+      "target": "activity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MenuActivity.java",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "roachkiller_menuactivity_menuactivity",
+      "target": "roachkiller_menuactivity_menuactivity_oncreate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MenuActivity.java",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "roachkiller_menuactivity_menuactivity",
+      "target": "roachkiller_menuactivity_menuactivity_onclick",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "app_src_main_java_game_nidhi_roachkiller_mainview_java",
+      "target": "surfaceview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "app_src_main_java_game_nidhi_roachkiller_mainview_java",
+      "target": "roachkiller_mainview_mainview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "roachkiller_mainview_mainview",
+      "target": "surfaceview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "roachkiller_mainview_mainview",
+      "target": "roachkiller_mainview_mainview_mainview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "roachkiller_mainview_mainview",
+      "target": "roachkiller_mainview_mainview_pause",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L77",
+      "weight": 1.0,
+      "source": "roachkiller_mainview_mainview",
+      "target": "roachkiller_mainview_mainview_resume",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "roachkiller_mainview_mainview",
+      "target": "roachkiller_mainview_mainview_ontouchevent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L99",
+      "weight": 1.0,
+      "source": "roachkiller_mainview_mainview",
+      "target": "roachkiller_mainview_mainview_surfacecreated",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L111",
+      "weight": 1.0,
+      "source": "roachkiller_mainview_mainview",
+      "target": "roachkiller_mainview_mainview_surfacechanged",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/src/main/java/game/nidhi/roachkiller/MainView.java",
+      "source_location": "L112",
+      "weight": 1.0,
+      "source": "roachkiller_mainview_mainview",
+      "target": "roachkiller_mainview_mainview_surfacedestroyed",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}
